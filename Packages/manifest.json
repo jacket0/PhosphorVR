@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "com.monitor1394.xcharts": "https://github.com/XCharts-Team/XCharts.git",
+    "com.unity.ai.assistant": "2.9.0-pre.2",
+    "com.unity.ai.inference": "2.6.1",
     "com.unity.feature.development": "1.0.2",
     "com.unity.ide.rider": "3.0.39",
     "com.unity.inputsystem": "1.18.0",
@@ -15,6 +18,7 @@
     "com.unity.xr.interaction.toolkit": "3.4.1",
     "com.unity.xr.management": "4.5.4",
     "com.unity.xr.meta-openxr": "2.5.0",
+    "com.unity.xr.oculus": "4.5.4",
     "com.unity.xr.openxr": "1.16.1",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
